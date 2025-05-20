@@ -5,7 +5,7 @@
 
 package array;
 import java.util.*;
-public class p1 {
+public class ListInterfaceDemo {
 	public static void main(String[] args) {
 		    List<String> a = new ArrayList<>();
 		    List<String> l = new LinkedList<>();
